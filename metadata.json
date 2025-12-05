@@ -1,0 +1,7 @@
+{
+  "name": "PDF Utility Suite",
+  "description": "A comprehensive suite of 15 PDF tools including Snap2PDF, Merger, OCR, and more. Features AI-powered text extraction and document enhancement.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
